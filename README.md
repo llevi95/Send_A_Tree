@@ -5,3 +5,11 @@
 
 ## Basic overview
 Hobby project to to practice managing logs, automation etc.
+
+## Disclaimer
+The project, documentation and ReadMe is constantly under development.
+
+- Phase: Beginning
+- Status: Ongoing
+
+Thank you for checking out my project!
