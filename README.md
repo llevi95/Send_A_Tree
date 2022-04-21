@@ -4,7 +4,7 @@
 
 
 ## Basic overview
-Hobby project to to practice managing logs, automation etc.
+Hobby project to practice managing logs, automation etc.
 
 ## Disclaimer
 The project, documentation and ReadMe is constantly under development.
